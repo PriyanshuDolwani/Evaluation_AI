@@ -1,0 +1,10 @@
+node_modules/
+*/node_modules/
+.env
+*/.env
+dist/
+*/dist/
+.kilo/
+.DS_Store
+**/.DS_Store
+Thumbs.db
